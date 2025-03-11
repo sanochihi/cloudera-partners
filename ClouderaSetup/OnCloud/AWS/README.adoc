@@ -604,7 +604,7 @@ e.g : If in the `configfile` the value of WORKSHOP_NAME is **accn-wrkshp** the o
 
 This file contains details about the provisioned `Keycloak` Server and the SSO URL which will be used for participants for login. It will look similar like below
 
-image::build/images/out_put_kc.png[during_process,650,300]
+image::build/images/out_put_kc.png[during_process,840,320]
 
 
 ---
